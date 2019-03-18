@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9bfa95a263a93a245b5abaec642aeeae
+timeCreated: 1498129263
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spawnGeo: {fileID: 54692001489742464, guid: 892430f6ab03a5845ab15d62318d0514,
+      type: 2}
+  - parSys: {fileID: 198468643381455946, guid: bf9068b9a8fdc3143872242042c55975, type: 2}
+  - playerPos: {fileID: 4412088382459238, guid: 38664d12c97c7ab49bc966a0d98b704c,
+      type: 2}
+  - geoPos: {fileID: 4467626868657724, guid: 892430f6ab03a5845ab15d62318d0514, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
